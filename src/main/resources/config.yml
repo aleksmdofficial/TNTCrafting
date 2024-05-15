@@ -1,0 +1,33 @@
+tnts:
+  speedTnt:
+    craft: ["gunpowder", "gunpowder", "gunpowder",
+            "gunpowder", "tnt", "gunpowder",
+            "gunpowder", "gunpowder", "gunpowder"]
+    metaData:
+      name: "&cМощный"
+      lore:
+        - '&6lalalal'
+        - '&aLOLOL'
+    params:
+      fuseTicks: 20
+      power: 2.0
+      fire: true
+      notBreaksBlocks: ["bedrock", "water", "lava"]
+      explosionFromOtherTnt: true
+      ignoreWater: true
+  poweredTnt:
+    craft: ["tnt", "gunpowder", "tnt",
+            "gunpowder", "tnt", "gunpowder",
+            "tnt", "gunpowder", "tnt"]
+    metaData:
+      name: "&cМощный"
+      lore:
+        - '&6l111111'
+        - '&a22222222'
+    params:
+      fuseTicks: 60
+      power: 10.0
+      fire: true
+      notBreaksBlocks: ["bedrock", "water"] #or %all%
+      explosionFromOtherTnt: true
+      ignoreWater: false

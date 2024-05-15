@@ -1,0 +1,20 @@
+
+A
+java:S1640N"Convert this Map to an EnumMap.(‚¦µÛøÿÿÿÿ8á—ß÷1
+c	java:S1074"BConstructor has 10 parameters, which is greater than 7 authorized.(°§É¸ùÿÿÿÿ8»ı¿ß÷1
+C
+java:S1905A"'Remove this unnecessary cast to "List".(²‘!8¾ı¿ß÷1
+U
+java:S3878C"8Remove this array creation and simply pass the elements.(Š Áó8¿ı¿ß÷1
+K
+java:S1905K")Remove this unnecessary cast to "Plugin".(µ‰ê¸ÿÿÿÿÿ8“Æ«à÷1
+N
+java:S1905X",Remove this unnecessary cast to "Character".(©Óòüÿÿÿÿ8Âı¿ß÷1
+M
+java:S1905o"0Remove this unnecessary cast to "MetadataValue".(ˆÿì—8Æı¿ß÷1
+F
+java:S1905o")Remove this unnecessary cast to "Plugin".(ˆÿì—8®Æ«à÷1
+t
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ó“ğ­ıÿÿÿÿ8Çı¿ß÷1
+i
+java:S1128"GRemove this unused import 'org.bukkit.event.entity.CreatureSpawnEvent'.(µ¥´úÿÿÿÿ8½Æ«à÷1

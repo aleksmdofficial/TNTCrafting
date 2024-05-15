@@ -1,0 +1,4 @@
+name: TNTCrafting
+version: '${project.version}'
+main: com.aleksmd.tntcrafting.TNTCrafting
+api-version: '1.20'
